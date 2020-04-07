@@ -9,3 +9,6 @@ Working with GitHub and Virtual Studio
 6. Clone repository in Github
 7. Open in Virtual Studio
 8.  Commit the repository
+# April 7, 2020 
+Class Notes
+
