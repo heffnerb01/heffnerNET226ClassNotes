@@ -30,7 +30,7 @@ Its more difficult to brute force a key
 14. cd .ssh
 15. ls
 16. cat authorized_keys = to view key
-17. 
+17. If the keys are generated from the AWS console, after converting the key with putty gen, copy the private portion of the key into nano as a continuous string.  Also add the prefix ssh-rsa followed by a space.  Also add the user name after the sting after a space.
 
 
 
