@@ -31,6 +31,23 @@ Its more difficult to brute force a key
 15. ls
 16. cat authorized_keys = to view key
 17. If the keys are generated from the AWS console, after converting the key with putty gen, copy the private portion of the key into nano as a continuous string.  Also add the prefix ssh-rsa followed by a space.  Also add the user name after the sting after a space.
+4.9.20 AWS VNC server
+1. update ubuntu
+2. install vncserver
+3. create password  = boomer62
+
+4.14.20
+
+tryhackme.com
+1. learn linux room, access page, download vpn file
+2. overthewire.org, war game site to help learn security skills
+
+4.16.20 - Privacy in the Information Age
+1. Reporters without borders
+    the uncensored library - dedicated for journalist
+    in minecraft
+
+2. RSS server - subscribe to feeds from other web sites.
 
 
 
